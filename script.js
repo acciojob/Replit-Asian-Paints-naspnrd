@@ -1,5 +1,5 @@
 
-const reset = document.getElementById("Reset")
+const reset = document.getElementById("reset_button")
 const change = document.getElementById("change_button")
 
 reset.addEventListener('click', resetGrid);
